@@ -7,7 +7,7 @@
 
   <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
   <p>This is a task management app created with Nest and TypeScript. 
-  Author: [Aashish Bhandari](https://awebisam.com/)
+  Author: Aashish Bhandari <a href="http://awebisam.com" target="_blank">Aashish Bhandari</a>
   </p>
   <hr>
     <p align="center">
